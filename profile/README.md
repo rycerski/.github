@@ -1,0 +1,1 @@
+**rycerski** state for **chivalrous** in Polish, named after character of "Książe Rycerski" from books of Robin Hobb: [Prince Chivalry Farseer](https://robinhobbelderlings.fandom.com/wiki/Chivalry_Farseer).
